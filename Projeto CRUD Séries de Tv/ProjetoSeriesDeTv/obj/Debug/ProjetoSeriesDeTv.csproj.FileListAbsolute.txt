@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\bin\Debug\ProjetoSeriesDeTv.exe.config
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\bin\Debug\ProjetoSeriesDeTv.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\bin\Debug\ProjetoSeriesDeTv.pdb
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.pdb
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.frmInicial.resources
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.frmMinhasSeriesFavoritas.resources
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.frmGerenciamentoDasSeries.resources
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.frmMinhasCategorias.resources
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\obj\Debug\ProjetoSeriesDeTv.frmGerenciamentoDasCategorias.resources
