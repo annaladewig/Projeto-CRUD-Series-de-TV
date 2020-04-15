@@ -9,9 +9,9 @@ namespace ProjetoSeriesDeTv
     {
         public static void LerCategoriasNoTxt(ArrayList identificador, ArrayList nome)
         {
-           if (File.Exists(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\categorias.txt"))
+           if (File.Exists(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\categorias.txt"))
             {
-                Stream entrada = File.Open(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\categorias.txt", FileMode.Open);
+                Stream entrada = File.Open(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\categorias.txt", FileMode.Open);
                 //string entrada = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\categorias.txt";
                  
              StreamReader leitor = new StreamReader(entrada);
@@ -32,9 +32,9 @@ namespace ProjetoSeriesDeTv
         public static void LerSeriesNoTxt(ArrayList identificador, ArrayList nome, ArrayList ultimaTemp, ArrayList ultimoEpisodio, ArrayList totTemp, ArrayList classificacao)
         {
             
-            if (File.Exists(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\series.txt"))
+            if (File.Exists(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\series.txt"))
             {
-                Stream entrada = File.Open(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\series.txt", FileMode.Open);
+                Stream entrada = File.Open(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\series.txt", FileMode.Open);
                 StreamReader leitor = new StreamReader(entrada);
                 string linha = leitor.ReadLine();
                 while (linha != null)
@@ -59,7 +59,7 @@ namespace ProjetoSeriesDeTv
 
         public static void EscreverCategoriasNoTxt(ArrayList identificador, ArrayList nome)
         {
-            Stream saida = File.Open(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\categorias.txt", FileMode.Create);
+            Stream saida = File.Open(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\categorias.txt", FileMode.Create);
             StreamWriter escritor = new StreamWriter(saida);
             for (int i = 0; i < identificador.Count; i++)
             {
@@ -72,7 +72,7 @@ namespace ProjetoSeriesDeTv
 
         public static void EscreverSeriesNoTxt(ArrayList identificador, ArrayList nome, ArrayList ultimaTemp, ArrayList ultimoEpisodio, ArrayList totTemp, ArrayList classificacao)
         {
-            Stream saida = File.Open(@"C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\Projeto\ProjetoSeriesDeTv\series.txt", FileMode.Create);
+            Stream saida = File.Open(@"C:\Users\DELL\Desktop\Análise e Desenvolvimento de Sistemas\GitHub\Projeto-CRUD-Series-de-TV\Projeto Anna Ladewig - CRUD Séries de Tv\ProjetoSeriesDeTv\series.txt", FileMode.Create);
             StreamWriter escritor = new StreamWriter(saida);
             for (int i = 0; i < identificador.Count; i++)
             {
