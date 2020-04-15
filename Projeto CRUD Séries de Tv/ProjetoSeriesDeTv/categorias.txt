@@ -1,9 +1,0 @@
-001;Comedia
-002;Drama
-003;Animacao
-004;Investigacao
-005;Terror
-006;Heroi
-007;Ficcao Cientifica
-008;Nacional
-009;Documentario
