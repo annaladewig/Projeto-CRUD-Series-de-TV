@@ -1,0 +1,80 @@
+001;Watchmen;01;06;01;Heroi
+002;Eletric Dreams;01;02;01;Ficcao Cientifica
+003;The Good Place;04;09;04;Comedia
+004;Bojack Horseman;06;08;06;Animacao
+005;Rick and Morty;03;10;04;Animacao
+006;Atypical;03;10;03;Drama
+007;Ozark;02;10;02;Drama
+008;The Boys;01;08;01;Heroi
+009;13 Reasons Why;03;13;03;Drama
+010;Years and Years;01;06;01;Drama
+011;Orange is the New Black;07;13;07;Drama
+012;The Handmaids Tale;03;13;03;Drama
+013;The 100;06;13;06;Ficcao Cientifica
+014;Big Little Lies;02;07;02;Drama
+015;La Casa de Papel;02;08;02;Investigacao
+016;3%;03;08;03;Nacional
+017;Jessica Jones;03;13;03;Heroi
+018;DareDevil;03;13;03;Heroi
+019;Stranger Things;03;08;03;Drama
+020;Easy;03;09;03;Drama
+021;Dark;02;08;02;Drama
+022;The Good Omens;01;08;06;Drama
+023;The Big Bang Theory;12;14;12;Comedia
+024;Vikings;05;20;06;Drama
+025;Friends;10;18;10;Comedia
+026;Black Mirror;05;03;05;Ficcao Cientifica
+027;Modern Family;10;22;11;Comedia
+028;Brooklyn 99;06;18;06;Comedia
+029;Game of Thrones;08;06;08;Drama
+030;Star Trek Discovery;02;14;02;Ficcao Cientifica
+031;Wild Wild Country;01;06;01;Documentario
+032;The Flash;05;22;06;Heroi
+033;Chilling Adventure of Sabrina;01;20;01;Terror
+034;The OA;02;08;02;Drama
+035;The Americans;06;10;06;Drama
+036;Chernobyl;01;05;01;Documentario
+037;A Maldicao da Residencia Hill;01;10;01;Terror
+038;Desventuras em Serie;03;07;03;Drama
+039;The Umbrella Academy;01;10;01;Heroi
+040;Unbreakable Kimmy Schmidt;04;10;04;Comedia
+041;O Justiceiro;02;13;02;Heroi
+042;You;01;10;01;Drama
+043;The Sinner;02;08;02;Investigacao
+044;House of Cards;06;01;06;Drama
+045;Punho de Ferro;02;10;02;Heroi
+046;Westworld;02;10;02;Ficcao Cientifica
+047;Luke Cage;02;02;02;Heroi
+048;Sense 8;02;12;02;Drama
+049;Agents of SHIELD;05;13;06;Heroi
+050;Santa Clarita Diet;02;10;03;Comedia
+051;Dirk Gently;02;10;02;Comedia
+052;Mr Robot;03;02;04;Drama
+053;Altered Carbon;01;10;01;Ficcao Cientifica
+054;Ray Donovan;05;12;06;Drama
+055;Episodes;05;07;05;Comedia
+056;Orphan Black;05;10;05;Drama
+057;Breaking Bad;05;16;05;Drama
+058;Lost;06;18;06;Drama
+059;Prison Break;03;06;04;Drama
+060;Defensores;01;08;01;Heroi
+061;Master of None;02;10;02;Drama
+062;Sherlock;04;03;04;Investigacao
+063;The Walking Dead;07;16;10;Drama
+064;Arrow;05;10;08;Heroi
+065;Narcos;02;10;03;Drama
+066;Agente Carter;02;10;02;Heroi
+067;Fear the Walking Dead;02;02;05;Drama
+068;Sharp Objects;01;08;01;Drama
+069;Maniac;01;10;01;Drama
+070;House;08;22;08;Drama
+071;V;02;10;02;Ficcao Cientifica
+072;Community;06;13;06;Comedia
+073;Parks and Recreation;07;13;07;Comedia
+074;Sons of Anarchy;07;13;07;Drama
+075;Dexter;08;12;08;Drama
+076;The Fresh Prince of Belair;06;24;06;Comedia
+077;Everybody Hates Chris;04;22;04;Comedia
+078;How I Met Your Mother;09;24;09;Comedia
+079;Battestar Galactica;04;20;04;Ficcao Cientifica
+080;The 4400;04;13;04;Ficcao Cientifica
